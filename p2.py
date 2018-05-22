@@ -29,7 +29,7 @@ def checkTime(year,month,day,hour,minute):
     print('---------------------------------')
     
     #Connect to DynamoDB
-    dynamodb = boto3.resource("dynamodb", region_name='us-east-1',aws_access_key_id='AKIAI2ZWMFGK662RHKNA',aws_secret_access_key='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')
+    dynamodb = boto3.resource("dynamodb", region_name='us-east-1',aws_access_key_id='',aws_secret_access_key='')
     table = dynamodb.Table('Pills')
 
     #Check Year
