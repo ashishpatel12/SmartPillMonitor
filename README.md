@@ -1,2 +1,2 @@
 # SmartPillMonitor
-Smart PIll monitor for senior design project Drexlel2018
+Smart PIll monitor for senior design project Drexel2018
